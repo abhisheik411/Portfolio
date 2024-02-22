@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | UshaRani Dharavath";
+            document.title = "Portfolio | Abbas Shaik";
             $("#favicon").attr("href", "");
         }
         else {
